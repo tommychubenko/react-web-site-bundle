@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-web-site-bundle/static/css/main.7acaea2f.css",
+    "main.js": "/react-web-site-bundle/static/js/main.2e69ca47.js",
+    "index.html": "/react-web-site-bundle/index.html",
+    "main.7acaea2f.css.map": "/react-web-site-bundle/static/css/main.7acaea2f.css.map",
+    "main.2e69ca47.js.map": "/react-web-site-bundle/static/js/main.2e69ca47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.2e69ca47.js"
+  ]
+}
